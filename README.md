@@ -1,2 +1,2 @@
 ## notice
-This code is copyrighted by dicoding, and I created this repository to be used for learning purposes
+This code is copyrighted by dicoding, and I created this repository to be used for learning purposes. machine learning!
